@@ -1,0 +1,5 @@
+{
+  "name": "Character Generator",
+  "description": "An application that generates a high-resolution 3D image of a character based on a textual description using the Gemini API.",
+  "requestFramePermissions": []
+}
